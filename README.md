@@ -1,3 +1,7 @@
+<p align ="center">
+  <img src="effective_mobile.png" alt="Scrin1" width="326">
+</p>
+
 # URL Shortener
 
 **Описание:**
