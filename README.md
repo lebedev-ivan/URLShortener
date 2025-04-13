@@ -1,5 +1,5 @@
 <p align ="center">
-  <img src="effective_mobile.png" alt="Scrin1" width="326">
+  <img src="Scrin1.jpg" alt="Scrin1" width="1126">
 </p>
 
 # URL Shortener
